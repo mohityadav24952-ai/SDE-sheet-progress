@@ -31,3 +31,54 @@ public:
        }
     }
 };
+
+
+
+
+
+LEETCODE 287---------FIND DUPLICATE NUMBER
+
+// Treat array as a linked list:
+// index -> nums[index]
+
+// Duplicate number creates a cycle.
+
+// Phase 1:
+// Find intersection point inside cycle
+// using slow and fast pointers.
+
+// Phase 2:
+// Put one pointer at start.
+// Move both one step at a time.
+// Meeting point = duplicate number.
+
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+
+        // Floyd's Cycle Detection (Tortoise and Hare)
+
+        int slow = nums[0];
+        int fast = nums[0];
+
+        // Step 1: Find the meeting point inside the cycle
+        do {
+            slow = nums[slow];           // move 1 step
+            fast = nums[nums[fast]];     // move 2 steps
+        } while (slow != fast);
+
+        // Step 2: Move one pointer back to the start
+        // and keep the other at the meeting point.
+        // Both now move 1 step at a time.
+        fast = nums[0];
+
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+
+        // The point where they meet again
+        // is the duplicate number.
+        return slow;
+    }
+};
