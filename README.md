@@ -94,3 +94,15 @@ PUSHED 13 LEETCODE PROBLEMS TODAYYYYY !!!!!!!!!!!!!!!!!!!!!!!!!!!
 PUSHED 15 LEETCODE PROBLEMS TODAY !!!!!!!!!!!!! 14/06/26
 
 I'LL BECOME THE BLOODY BESTTT
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
