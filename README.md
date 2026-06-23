@@ -103,6 +103,7 @@ I'LL BECOME THE BLOODY BESTTT
 | [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -136,9 +137,14 @@ I'LL BECOME THE BLOODY BESTTT
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
