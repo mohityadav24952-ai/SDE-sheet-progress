@@ -105,4 +105,12 @@ I'LL BECOME THE BLOODY BESTTT
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
