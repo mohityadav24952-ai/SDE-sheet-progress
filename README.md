@@ -14,6 +14,7 @@ Consistent efforts
 | [0494-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -69,6 +70,7 @@ Consistent efforts
 | [0084-largest-rectangle-in-histogram](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
@@ -91,6 +93,7 @@ Consistent efforts
 | [0084-largest-rectangle-in-histogram](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
