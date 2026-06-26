@@ -57,6 +57,7 @@ Consistent efforts
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Consistent efforts
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1544-make-the-string-great) |
+| [1768-merge-strings-alternately](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1768-merge-strings-alternately) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
