@@ -19,6 +19,7 @@ Consistent efforts
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2104-sum-of-subarray-ranges) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -76,6 +77,7 @@ Consistent efforts
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1544-make-the-string-great) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2104-sum-of-subarray-ranges) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -93,6 +95,7 @@ Consistent efforts
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
