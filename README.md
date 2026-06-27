@@ -7,6 +7,7 @@ Consistent efforts
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
@@ -75,6 +76,7 @@ Consistent efforts
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0031-next-permutation) |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1768-merge-strings-alternately) |
 ## String
