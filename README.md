@@ -169,16 +169,23 @@ Consistent efforts
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0098-validate-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0098-validate-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0098-validate-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
