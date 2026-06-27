@@ -56,6 +56,7 @@ Consistent efforts
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
 ## Two Pointers
@@ -179,6 +180,7 @@ Consistent efforts
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
@@ -188,6 +190,7 @@ Consistent efforts
 | [0098-validate-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -199,6 +202,7 @@ Consistent efforts
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
@@ -210,5 +214,6 @@ Consistent efforts
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0450-delete-node-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
