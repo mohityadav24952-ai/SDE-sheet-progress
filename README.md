@@ -14,6 +14,7 @@ Consistent efforts
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
@@ -136,6 +137,7 @@ Consistent efforts
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -164,6 +166,7 @@ Consistent efforts
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
@@ -187,6 +190,7 @@ Consistent efforts
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Enumeration
 |  |
