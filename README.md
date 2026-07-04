@@ -83,6 +83,7 @@ Consistent efforts
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
@@ -247,6 +248,7 @@ Consistent efforts
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -304,10 +306,12 @@ Consistent efforts
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
