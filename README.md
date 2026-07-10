@@ -22,6 +22,7 @@ travelling today so no Ques
 | [0494-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0739-daily-temperatures) |
@@ -302,6 +303,7 @@ travelling today so no Ques
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 ## Union-Find
