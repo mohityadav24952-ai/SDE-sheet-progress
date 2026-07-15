@@ -11,6 +11,7 @@ travelling today so no Ques
 | [0031-next-permutation](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -163,6 +164,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
@@ -218,6 +220,7 @@ travelling today so no Ques
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
