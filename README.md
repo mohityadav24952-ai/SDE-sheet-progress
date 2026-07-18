@@ -41,6 +41,7 @@ travelling today so no Ques
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2104-sum-of-subarray-ranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -56,6 +57,7 @@ travelling today so no Ques
 | ------- |
 | [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -371,6 +373,7 @@ travelling today so no Ques
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
