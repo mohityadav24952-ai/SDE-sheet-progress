@@ -128,6 +128,7 @@ travelling today so no Ques
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -259,6 +260,7 @@ travelling today so no Ques
 | ------- |
 | [1291-sequential-digits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
 |  |
 | ------- |
