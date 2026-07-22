@@ -31,6 +31,7 @@ travelling today so no Ques
 | [0724-find-pivot-index](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
@@ -60,6 +61,7 @@ travelling today so no Ques
 | ------- |
 | [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -74,6 +76,7 @@ travelling today so no Ques
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -412,4 +415,5 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
