@@ -49,6 +49,7 @@ travelling today so no Ques
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -130,6 +131,7 @@ travelling today so no Ques
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -204,6 +206,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -325,6 +328,7 @@ travelling today so no Ques
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
