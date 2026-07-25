@@ -64,6 +64,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
@@ -425,6 +426,7 @@ travelling today so no Ques
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -437,6 +439,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
