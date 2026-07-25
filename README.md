@@ -216,6 +216,7 @@ travelling today so no Ques
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -435,6 +436,7 @@ travelling today so no Ques
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
