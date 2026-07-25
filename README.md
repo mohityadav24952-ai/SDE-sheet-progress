@@ -440,6 +440,7 @@ travelling today so no Ques
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
