@@ -57,6 +57,7 @@ travelling today so no Ques
 | [2104-sum-of-subarray-ranges](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -401,6 +402,7 @@ travelling today so no Ques
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Union-Find
 |  |
 | ------- |
