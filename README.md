@@ -477,4 +477,8 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
