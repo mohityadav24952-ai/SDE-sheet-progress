@@ -4,7 +4,6 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
 <pre>
 <strong>Input:</strong> digits = [1,2,3]
 <strong>Output:</strong> [1,2,4]
