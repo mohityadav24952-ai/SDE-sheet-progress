@@ -81,6 +81,7 @@ travelling today so no Ques
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -158,6 +159,7 @@ travelling today so no Ques
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -273,6 +275,7 @@ travelling today so no Ques
 | ------- |
 | [0605-can-place-flowers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
