@@ -42,6 +42,7 @@ travelling today so no Ques
 | [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1046-last-stone-weight) |
@@ -121,6 +122,7 @@ travelling today so no Ques
 | [0525-contiguous-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
@@ -232,6 +234,7 @@ travelling today so no Ques
 | [0525-contiguous-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -421,6 +424,7 @@ travelling today so no Ques
 | [0239-sliding-window-maximum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
