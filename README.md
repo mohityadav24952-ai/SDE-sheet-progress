@@ -30,6 +30,7 @@ travelling today so no Ques
 | [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0643-maximum-average-subarray-i) |
@@ -118,6 +119,7 @@ travelling today so no Ques
 | [0238-product-of-array-except-self](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1480-running-sum-of-1d-array) |
@@ -228,6 +230,7 @@ travelling today so no Ques
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
