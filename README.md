@@ -41,6 +41,7 @@ travelling today so no Ques
 | [0739-daily-temperatures](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
@@ -239,6 +240,7 @@ travelling today so no Ques
 | [0525-contiguous-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
+| [0904-fruit-into-baskets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
@@ -431,6 +433,7 @@ travelling today so no Ques
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
