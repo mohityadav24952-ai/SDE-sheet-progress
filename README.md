@@ -47,6 +47,7 @@ travelling today so no Ques
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -85,6 +86,7 @@ travelling today so no Ques
 | [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -124,6 +126,7 @@ travelling today so no Ques
 | [0724-find-pivot-index](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1991-find-the-middle-index-in-array) |
@@ -235,6 +238,7 @@ travelling today so no Ques
 | [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -425,6 +429,7 @@ travelling today so no Ques
 | [0643-maximum-average-subarray-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
