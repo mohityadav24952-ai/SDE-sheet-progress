@@ -30,6 +30,7 @@ travelling today so no Ques
 | [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -396,6 +397,7 @@ travelling today so no Ques
 | [0450-delete-node-in-a-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0783-minimum-distance-between-bst-nodes) |
