@@ -77,6 +77,7 @@ travelling today so no Ques
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -258,6 +259,7 @@ travelling today so no Ques
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3731-find-missing-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -338,6 +340,7 @@ travelling today so no Ques
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
