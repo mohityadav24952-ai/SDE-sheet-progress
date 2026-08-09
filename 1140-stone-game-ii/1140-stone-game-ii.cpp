@@ -3,8 +3,6 @@ public:
     int n;
      int t[2][101][101];
     int solveforalice(vector<int>&piles , int person ,int i , int m){
-           
-
             if(i>=n) return 0;
             if (t[person][i][m] !=-1) return t[person][i][m] ;
 
@@ -19,16 +17,12 @@ public:
                  else 
                  result = min(result , solveforalice(piles , 1 , i+x , max(m,x)));
             }
-
             return t[person][i][m] = result ;
-
     }
 
     int stoneGameII(vector<int>& piles) {
         n = piles.size() ;
-
         memset(t,-1,sizeof(t));
         return solveforalice(piles , 1 , 0 , 1);
-
     }
 };
