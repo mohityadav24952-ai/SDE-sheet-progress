@@ -47,6 +47,7 @@ travelling today so no Ques
 | [0918-maximum-sum-circular-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
@@ -254,6 +255,7 @@ travelling today so no Ques
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -298,6 +300,7 @@ travelling today so no Ques
 | [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
+| [0992-subarrays-with-k-different-integers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
@@ -457,6 +460,7 @@ travelling today so no Ques
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
