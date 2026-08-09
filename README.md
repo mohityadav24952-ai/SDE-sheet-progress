@@ -175,6 +175,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
@@ -244,6 +245,7 @@ travelling today so no Ques
 | ------- |
 | [0049-group-anagrams](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0268-missing-number) |
@@ -453,6 +455,7 @@ travelling today so no Ques
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0438-find-all-anagrams-in-a-string) |
