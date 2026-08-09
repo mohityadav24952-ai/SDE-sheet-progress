@@ -550,4 +550,12 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0124-binary-tree-maximum-path-sum) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
