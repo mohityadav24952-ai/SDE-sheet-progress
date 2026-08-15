@@ -570,6 +570,7 @@ travelling today so no Ques
 | [0584-find-customer-referee](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1148-article-views-i) |
+| [1661-average-time-of-process-per-machine](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1757-recyclable-and-low-fat-products) |
 ## DP on Trees
