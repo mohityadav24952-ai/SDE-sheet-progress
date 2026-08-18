@@ -55,6 +55,7 @@ travelling today so no Ques
 | [1207-unique-number-of-occurrences](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1260-shift-2d-grid) |
+| [1306-jump-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
@@ -166,6 +167,7 @@ travelling today so no Ques
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
+| [1306-jump-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -406,6 +408,7 @@ travelling today so no Ques
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0993-cousins-in-binary-tree) |
+| [1306-jump-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
