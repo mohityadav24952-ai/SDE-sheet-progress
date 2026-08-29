@@ -73,6 +73,7 @@ travelling today so no Ques
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -365,6 +366,7 @@ travelling today so no Ques
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3536-maximum-product-of-two-digits) |
@@ -497,6 +499,7 @@ travelling today so no Ques
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
