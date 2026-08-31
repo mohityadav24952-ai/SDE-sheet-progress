@@ -253,6 +253,7 @@ travelling today so no Ques
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Hash Table
 |  |
 | ------- |
