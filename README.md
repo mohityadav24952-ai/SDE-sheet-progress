@@ -86,6 +86,7 @@ travelling today so no Ques
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3731-find-missing-elements) |
@@ -173,6 +174,7 @@ travelling today so no Ques
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,6 +288,7 @@ travelling today so no Ques
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -353,6 +356,7 @@ travelling today so no Ques
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -564,6 +568,7 @@ travelling today so no Ques
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
