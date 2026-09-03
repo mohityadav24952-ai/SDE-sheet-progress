@@ -94,6 +94,7 @@ travelling today so no Ques
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +120,7 @@ travelling today so no Ques
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
