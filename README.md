@@ -127,6 +127,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
@@ -197,6 +198,7 @@ travelling today so no Ques
 | ------- |
 | [0049-group-anagrams](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
