@@ -82,6 +82,7 @@ travelling today so no Ques
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -301,6 +302,7 @@ travelling today so no Ques
 | [3120-count-the-number-of-special-characters-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3731-find-missing-elements) |
@@ -398,6 +400,7 @@ travelling today so no Ques
 | ------- |
 | [1291-sequential-digits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
@@ -568,6 +571,7 @@ travelling today so no Ques
 | ------- |
 | [0231-power-of-two](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
