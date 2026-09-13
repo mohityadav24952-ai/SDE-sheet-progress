@@ -41,6 +41,7 @@ travelling today so no Ques
 | [0724-find-pivot-index](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0904-fruit-into-baskets) |
@@ -370,6 +371,7 @@ travelling today so no Ques
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
