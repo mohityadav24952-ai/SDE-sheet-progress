@@ -115,6 +115,7 @@ travelling today so no Ques
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -145,6 +146,7 @@ travelling today so no Ques
 | [0940-distinct-subsequences-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -167,6 +169,7 @@ travelling today so no Ques
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1991-find-the-middle-index-in-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -646,4 +649,8 @@ travelling today so no Ques
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
