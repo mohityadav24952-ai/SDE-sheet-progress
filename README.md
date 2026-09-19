@@ -115,6 +115,7 @@ travelling today so no Ques
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -582,6 +583,7 @@ travelling today so no Ques
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quickselect
 |  |
 | ------- |
