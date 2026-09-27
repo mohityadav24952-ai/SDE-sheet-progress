@@ -234,6 +234,7 @@ travelling today so no Ques
 | [0940-distinct-subsequences-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -269,6 +270,7 @@ travelling today so no Ques
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1544-make-the-string-great) |
@@ -689,4 +691,8 @@ travelling today so no Ques
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
