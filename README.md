@@ -678,6 +678,7 @@ travelling today so no Ques
 | [1148-article-views-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1341-movie-rating) |
 | [1661-average-time-of-process-per-machine](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1729-find-followers-count) |
