@@ -665,6 +665,7 @@ travelling today so no Ques
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0570-managers-with-at-least-5-direct-reports) |
