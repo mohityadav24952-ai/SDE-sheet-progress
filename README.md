@@ -153,6 +153,7 @@ travelling today so no Ques
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0918-maximum-sum-circular-subarray) |
@@ -237,6 +238,7 @@ travelling today so no Ques
 | [0115-distinct-subsequences](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0940-distinct-subsequences-ii) |
@@ -274,6 +276,7 @@ travelling today so no Ques
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
@@ -410,6 +413,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -724,6 +728,7 @@ travelling today so no Ques
 | [0020-valid-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
