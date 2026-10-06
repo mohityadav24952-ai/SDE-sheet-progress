@@ -242,6 +242,7 @@ travelling today so no Ques
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1096-brace-expansion-ii) |
@@ -284,6 +285,7 @@ travelling today so no Ques
 | [0856-score-of-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1096-brace-expansion-ii) |
@@ -416,6 +418,7 @@ travelling today so no Ques
 | ------- |
 | [0605-can-place-flowers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -732,6 +735,7 @@ travelling today so no Ques
 | [0032-longest-valid-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
