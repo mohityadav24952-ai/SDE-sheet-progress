@@ -199,6 +199,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
@@ -206,6 +207,7 @@ travelling today so no Ques
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -236,6 +238,7 @@ travelling today so no Ques
 | [0049-group-anagrams](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
