@@ -281,6 +281,7 @@ travelling today so no Ques
 | [0032-longest-valid-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0678-valid-parenthesis-string) |
@@ -484,6 +485,7 @@ travelling today so no Ques
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -503,6 +505,7 @@ travelling today so no Ques
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0199-binary-tree-right-side-view) |
@@ -519,6 +522,7 @@ travelling today so no Ques
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
