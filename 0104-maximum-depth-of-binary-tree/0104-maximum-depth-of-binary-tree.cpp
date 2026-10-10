@@ -10,44 +10,16 @@
  * };
  */
 class Solution {
-public: void levelorder(TreeNode* root , vector<vector<int>>&ans){
-
-        queue<TreeNode*>q;
-
-        if(root==NULL) return;
-
-        q.push(root);
-
-        while(!q.empty()){
-
-            int lvlsize = q.size();
-
-            vector<int>temp;
-
-            for(int i=0 ; i<lvlsize ; i++){
-
-                TreeNode* node = q.front();
-                q.pop();
-
-                temp.push_back(node->val);
-
-                if(node->left) q.push(node->left);
-                if(node->right)q.push(node->right);
-
-            }
-
-            ans.push_back(temp);
-        }
-
-    
-    }
-   
+public:
     int maxDepth(TreeNode* root) {
         
-        vector<vector<int>>ans;
 
-        levelorder(root,ans);
+        if(root==NULL) return NULL;
 
-        return ans.size();
+        int lh = maxDepth(root->left);
+
+        int rh = maxDepth(root->right);
+
+        return 1+max(lh,rh);
     }
 };
