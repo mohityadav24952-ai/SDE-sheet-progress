@@ -1,67 +1,66 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+    void lorder(TreeNode* root , vector<vector<int>>&res){
+        if(root==NULL) return;
 
-        // Edge Case: Agar tree empty hai
-        if(root == NULL)
-            return {};
-
-        queue<TreeNode*> q;
+        queue<TreeNode*>q;
         q.push(root);
 
-        // Final answer
-        vector<vector<int>> res;
+          int ltor = 1;
 
-        // Direction maintain karega
-        // true  -> Left to Right
-        // false -> Right to Left
-        bool leftToRight = true;
+        while(!q.empty()){
 
-        while(!q.empty())
-        {
-            // Current level me kitne nodes hain
-            int levelSize = q.size();
+            int lvlsize  = q.size();
+            vector<int>temp(lvlsize);
+          
 
-            // Current level ke answers store karne ke liye
-            vector<int> temp(levelSize);
+            int end = lvlsize-1;
 
-            // Forward aur Backward index
-            int f = 0;
-            int l = levelSize - 1;
+            for(int i=0 ; i<lvlsize ;i++){
 
-            while(levelSize--)
-            {
-                TreeNode* t = q.front();
+
+                TreeNode* node = q.front();
                 q.pop();
 
-                // Agar Left -> Right direction hai
-                if(leftToRight)
-                {
-                    temp[f] = t->val;
-                    f++;
+                if(ltor){
+                    temp[i]=node->val;                   
                 }
-
-                // Agar Right -> Left direction hai
                 else
-                {
-                    temp[l] = t->val;
-                    l--;
+                 {
+                    temp[end]=node->val;
+                    end--;
                 }
 
-                // Next level ke liye children queue me daalo
-                if(t->left != NULL)
-                    q.push(t->left);
+                if(node->left != NULL) q.push(node->left);
+                if(node->right != NULL) q.push(node->right);
 
-                if(t->right != NULL)
-                    q.push(t->right);
+
+
+            
             }
-
-            // Current level answer me add karo
             res.push_back(temp);
+            ltor = 1-ltor;
 
-            // Next level ke liye direction change karo
-            leftToRight = !leftToRight;
         }
+    }
+
+
+
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        vector<vector<int>>res;
+
+        lorder(root,res);
 
         return res;
     }
