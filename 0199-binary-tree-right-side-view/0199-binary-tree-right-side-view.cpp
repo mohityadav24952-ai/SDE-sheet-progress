@@ -11,43 +11,48 @@
  */
 class Solution {
 public:
+ void lorder(TreeNode* root , vector<int>&temp){
+        if(root==NULL) return;
 
-    vector<int> rightSideView(TreeNode* root) {
-
-        // Edge Case
-        if(root == NULL)
-            return {};
-
-        queue<TreeNode*> q;
+        queue<TreeNode*>q;
         q.push(root);
 
-        // Final Answer
-        vector<int> ans;
+          int ltor = 1;
 
-        while(!q.empty())
-        {
-            // Current level ke total nodes
-            int levelSize = q.size();
+        while(!q.empty()){
 
-            for(int i = 0; i < levelSize; i++)
-            {
-                TreeNode* t = q.front();
+            int lvlsize  = q.size();
+            
+          
+
+
+            for(int i=0 ; i<lvlsize ;i++){
+
+
+                TreeNode* node = q.front();
                 q.pop();
 
-                // Agar ye current level ka last node hai,
-                // to ye right side se dikhega
-                if(i == levelSize - 1)
-                    ans.push_back(t->val);
+                if(i==lvlsize-1) temp.push_back(node->val);
 
-                // Next level ke nodes queue me daalo
-                if(t->left != NULL)
-                    q.push(t->left);
+                if(node->left != NULL) q.push(node->left);
+                if(node->right != NULL) q.push(node->right);
 
-                if(t->right != NULL)
-                    q.push(t->right);
+
+
+            
             }
+            
         }
+    }
 
-        return ans;
+    vector<int> rightSideView(TreeNode* root) {
+        
+        vector<int>temp;
+
+
+        lorder(root,temp);
+
+        return temp;
+
     }
 };
