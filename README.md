@@ -102,6 +102,7 @@ travelling today so no Ques
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -449,6 +450,7 @@ travelling today so no Ques
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -485,6 +487,7 @@ travelling today so no Ques
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
