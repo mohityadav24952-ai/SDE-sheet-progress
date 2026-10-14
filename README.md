@@ -139,6 +139,7 @@ travelling today so no Ques
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3870-count-commas-in-range) |
@@ -450,6 +451,7 @@ travelling today so no Ques
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
