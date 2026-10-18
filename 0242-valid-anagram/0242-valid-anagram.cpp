@@ -6,23 +6,24 @@ public:
 
         if(m!=n) return false;
 
-        vector<int>v(26,0);
-
-        for(int i=0 ; i<m ; i++){
-            v[s[i]-'a']++;
-        }
-
-        
-        for(int i=0 ; i<n ; i++){
-            v[t[i]-'a']--;
-        }
-
-        for(int i=0 ;i<26 ;i++){
-            if(v[i]!=0) return false;
-        }
+       unordered_map<char,int>mp;
 
 
-        return true;
+
+    for( auto c : s){
+        mp[c]++;
+    }
+
+    for(auto c : t){
+        mp[c]--;
+    }
+
+    for(auto c : mp){
+        if((c.second)!=0) return false;
+    }
+
+    return true;
+
 
 
     }
