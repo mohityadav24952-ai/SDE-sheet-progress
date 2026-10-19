@@ -1,23 +1,37 @@
 class Solution {
 public:
-
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         
-        unordered_map<string, vector<string>> mp;
+        int n = strs.size();
 
-        for(string word : strs)
-        {
-            string temp = word;              // original word ki copy
+        unordered_map<string,vector<string>>mp;
 
-            sort(temp.begin(), temp.end()); // signature bana di
 
-            mp[temp].push_back(word);       // original word store kar diya
+        for(string s : strs){
+
+            string key = s;
+             sort(key.begin(),key.end());
+            
+          
+           
+            mp[key].push_back(s);
+           
+   
+           
+
+
+           
+           
         }
-        vector<vector<string>> ans;
-        for(auto x : mp)
-        {
-            ans.push_back(x.second);
+
+        vector<vector<string>>ans;
+
+        for(auto pairs : mp){
+            ans.push_back(pairs.second);
         }
+
+
+
         return ans;
     }
 };
