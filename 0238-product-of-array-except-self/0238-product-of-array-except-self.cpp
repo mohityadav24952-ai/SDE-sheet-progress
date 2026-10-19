@@ -1,40 +1,29 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-
+        
         int n = nums.size();
 
-        // Answer array
-        vector<int> ans(n);
+        int pref[n];
+        int suff[n];
 
-        // -------------------------------
-        // PASS 1 : Store Prefix Products
-        // -------------------------------
+        pref[0]=1;
+        suff[n-1]=1;
 
-        // Prefix product before index 0 is always 1
-        ans[0] = 1;
-
-        // ans[i] = product of all elements before i
-        for (int i = 1; i < n; i++) {
-            ans[i] = ans[i - 1] * nums[i - 1];
+        for(int i=1 ; i<n ; i++){
+                pref[i] =pref[i-1]*nums[i-1];
         }
 
-        // -------------------------------
-        // PASS 2 : Multiply by Suffix Products
-        // -------------------------------
-
-        // Suffix product after last index is 1
-        int suffix = 1;
-
-        // Traverse from right to left
-        for (int i = n - 1; i >= 0; i--) {
-
-            // Multiply current prefix with current suffix
-            ans[i] *= suffix;
-
-            // Update suffix for next iteration
-            suffix *= nums[i];
+        for(int i=n-2 ; i>=0 ; i--){
+                suff[i] =suff[i+1]*nums[i+1];
         }
+
+        vector<int>ans;
+
+        for(int i=0;i<n ; i++){
+            ans.push_back(pref[i]*suff[i]);
+        }
+
 
         return ans;
     }
