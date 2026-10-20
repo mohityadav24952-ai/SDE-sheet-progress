@@ -28,6 +28,7 @@ travelling today so no Ques
 | [0268-missing-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0494-target-sum) |
@@ -370,6 +371,7 @@ travelling today so no Ques
 | [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0523-continuous-subarray-sum) |
@@ -415,6 +417,7 @@ travelling today so no Ques
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
@@ -444,6 +447,7 @@ travelling today so no Ques
 | ------- |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0992-subarrays-with-k-different-integers) |
@@ -499,6 +503,7 @@ travelling today so no Ques
 | [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
@@ -654,6 +659,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
@@ -730,6 +736,7 @@ travelling today so no Ques
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0692-top-k-frequent-words) |
 ## Geometry
@@ -741,6 +748,7 @@ travelling today so no Ques
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
