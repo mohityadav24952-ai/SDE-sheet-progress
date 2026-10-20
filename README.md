@@ -26,6 +26,7 @@ travelling today so no Ques
 | [0238-product-of-array-except-self](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0268-missing-number) |
+| [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
@@ -413,6 +414,7 @@ travelling today so no Ques
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
@@ -422,6 +424,7 @@ travelling today so no Ques
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -450,6 +453,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0155-min-stack) |
+| [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -664,6 +668,7 @@ travelling today so no Ques
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -851,4 +856,8 @@ travelling today so no Ques
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
