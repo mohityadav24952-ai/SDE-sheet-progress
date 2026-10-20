@@ -85,6 +85,7 @@ travelling today so no Ques
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2381-shifting-letters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2381-shifting-letters-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -210,6 +211,7 @@ travelling today so no Ques
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1991-find-the-middle-index-in-array) |
+| [2381-shifting-letters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2381-shifting-letters-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -291,6 +293,7 @@ travelling today so no Ques
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2381-shifting-letters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2381-shifting-letters-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
