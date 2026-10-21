@@ -305,6 +305,7 @@ travelling today so no Ques
 | [3498-reverse-degree-of-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
