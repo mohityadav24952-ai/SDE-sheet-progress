@@ -311,6 +311,7 @@ travelling today so no Ques
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -685,6 +686,7 @@ travelling today so no Ques
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -732,11 +734,13 @@ travelling today so no Ques
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
