@@ -257,6 +257,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0031-next-permutation) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1768-merge-strings-alternately) |
@@ -369,6 +370,7 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Hash Table
@@ -378,6 +380,7 @@ travelling today so no Ques
 | [0049-group-anagrams](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0229-majority-element-ii) |
