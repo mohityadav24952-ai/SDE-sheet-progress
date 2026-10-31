@@ -26,6 +26,7 @@ travelling today so no Ques
 | [0238-product-of-array-except-self](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
@@ -173,6 +174,7 @@ travelling today so no Ques
 | [0115-distinct-subsequences](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0494-target-sum) |
@@ -659,6 +661,7 @@ travelling today so no Ques
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -893,4 +896,8 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
