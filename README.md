@@ -58,6 +58,7 @@ travelling today so no Ques
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
@@ -216,6 +217,7 @@ travelling today so no Ques
 | [0560-subarray-sum-equals-k](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -676,6 +678,7 @@ travelling today so no Ques
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -727,6 +730,7 @@ travelling today so no Ques
 | [0904-fruit-into-baskets](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
