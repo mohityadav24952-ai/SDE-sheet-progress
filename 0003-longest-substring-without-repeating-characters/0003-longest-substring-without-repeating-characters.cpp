@@ -8,24 +8,25 @@ public:
         int ans =0;
         int len =0;
 
-        unordered_set<char>st;
+        vector<int>last(256,-1);
 
         while(r<n){
 
-            while(st.find(s[r])!=st.end()){
-                st.erase(s[l]);
-                l++;               
+            if(last[s[r]] != -1){
+                if(last[s[r]] >= l)
+                {l = last[s[r]]+1;}
             }
 
-            st.insert(s[r]);
+             last[s[r]] = r;
 
-            len = r-l+1;
 
-                     
-            ans = max(ans,len);
-            r++;
+             len = r-l+1;
+
+             ans = max(ans,len);
+
+             r++;
+
             
-
         }
 
         return ans;
