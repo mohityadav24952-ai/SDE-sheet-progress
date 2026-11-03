@@ -1,48 +1,63 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-         int n = s.length();
-         int m = t.length();
+        int m = s.size();
+        int n = t.size();
 
-         int hash[256]={0};
-         int si= 0;
-         int minl = INT_MAX;
+        int l=0;
+        int r=0;
+        int cnt =0;
+        int minlen =INT_MAX;
 
+        int startind =-1;
 
-         for(int i=0 ;i<m ; i++) hash[t[i]]++;
+        unordered_map<char,int>st;
 
-         int l = 0 ,r=0;
-         int cnt = 0;
+        for(auto ch:t){
+            st[ch]++;
+        }
 
-         while(r<n){
+        while(r<m){
 
-                if(hash[s[r]] > 0) cnt++ ;
-                hash[s[r]]--;
+            if(st.find(s[r])!=st.end()){
 
-                while(cnt == m){
-
-                   if(r-l+1 < minl){
-                     minl = r-l+1;
-                     si = l;
-                    
-                   }
-
-                     hash[s[l]]++;
-
-                     if(hash[s[l]]>0) {
-                        cnt--;
-                        
-                     }
-
-                      l++; 
-                     
-                  
-
+                if(st[s[r]]>0){
+                    cnt++;
                 }
-            r++;
-         }
-        
 
-         return minl == INT_MAX ? "" : s.substr(si, minl);
+                st[s[r]]--;
+            }
+
+            
+
+            while(cnt == t.length()){
+                
+                if(st.find(s[l])!=st.end()){
+                      
+
+                        st[s[l]]++;
+
+                        if(st[s[l]]>0){
+                            cnt--; // Agar required count 0 se bada ho gaya, tabhi cnt kam karo
+                        }
+                }
+
+                if(minlen>r-l+1){
+                minlen = r-l+1;
+                startind = l;
+            }
+
+
+                l++;
+            }
+
+
+         
+            r++;
+
+        }
+
+        if(startind == -1) return "";
+        return s.substr(startind,minlen);
     }
 };
