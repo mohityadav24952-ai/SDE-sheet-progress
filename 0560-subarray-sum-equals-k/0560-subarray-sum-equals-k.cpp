@@ -1,28 +1,29 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        unordered_map<int, int> mp;
-        
-        int sum = 0;
-        int rem = 0;
-        int ans = 0;
-        
-        // Base case: jab prefix sum 0 ho (matlab pure sequence ka sum k ke barabar ho)
-        mp[0] = 1; 
+        int n = nums.size();
 
-        for (int i = 0; i < nums.size(); i++) {
-            sum += nums[i];
-            rem = sum - k;
+        unordered_map<int,int>mp;
 
-            // Agar rem pehle mil chuka hai, toh uski frequency add karo
-            if (mp.find(rem) != mp.end()) {
-                ans += mp[rem];
-            }
+        int l=0 , r=0;
+        int psum=0;
+        mp[0]=1;
+        int cnt =0;
 
-            // Prefix sum ki frequency badhao har case me
-            mp[sum]++;
+        while(r<n){
+
+         psum += nums[r];
+
+         if(mp.find(psum-k)!=mp.end()){
+            cnt += mp[psum-k];
+         }
+
+         mp[psum]++;
+
+
+
+            r++;
         }
-
-        return ans;
+        return cnt;
     }
 };
