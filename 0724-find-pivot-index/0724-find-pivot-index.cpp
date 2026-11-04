@@ -1,33 +1,24 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
+        int n = nums.size();
 
-        // Step 1: Find total sum of the array
-        int totalSum = 0;
+        int lsum = 0;
+        int rsum =0;
+        int ans = -1;
+        int tsum =0;
 
-        for (int num : nums) {
-            totalSum += num;
-        }
+         tsum = accumulate(nums.begin(),nums.end(),0);
+       
 
-        // Left side sum initially 0
-        int leftSum = 0;
+        for(int i=0 ; i<n ; i++){
+            lsum += nums[i];
+           rsum = tsum - lsum + nums[i];
 
-        // Traverse the array
-        for (int i = 0; i < nums.size(); i++) {
-
-            // Right sum = Total Sum - Left Sum - Current Element
-            int rightSum = totalSum - leftSum - nums[i];
-
-            // If both sums are equal, current index is the pivot
-            if (leftSum == rightSum) {
+            if(lsum == rsum){
                 return i;
             }
-
-            // Include current element in left sum
-            leftSum += nums[i];
         }
-
-        // No pivot index found
-        return -1;
+        return ans;
     }
 };
