@@ -921,4 +921,8 @@ travelling today so no Ques
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0300-longest-increasing-subsequence) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
