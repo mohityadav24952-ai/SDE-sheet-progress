@@ -12,6 +12,7 @@ travelling today so no Ques
 | [0031-next-permutation](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0084-largest-rectangle-in-histogram) |
@@ -180,6 +181,7 @@ travelling today so no Ques
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0118-pascals-triangle) |
@@ -447,6 +449,7 @@ travelling today so no Ques
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0169-majority-element) |
