@@ -72,6 +72,7 @@ travelling today so no Ques
 | [1306-jump-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -283,6 +284,7 @@ travelling today so no Ques
 | [0160-intersection-of-two-linked-lists](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0160-intersection-of-two-linked-lists) |
 | [0658-find-k-closest-elements](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0844-backspace-string-compare) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -558,6 +560,7 @@ travelling today so no Ques
 | [1096-brace-expansion-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -696,6 +699,7 @@ travelling today so no Ques
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
