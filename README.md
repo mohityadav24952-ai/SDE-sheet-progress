@@ -113,6 +113,7 @@ travelling today so no Ques
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -246,6 +247,7 @@ travelling today so no Ques
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1991-find-the-middle-index-in-array) |
 | [2381-shifting-letters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2381-shifting-letters-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -785,6 +787,7 @@ travelling today so no Ques
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
