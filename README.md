@@ -339,6 +339,7 @@ travelling today so no Ques
 | [1871-jump-game-vii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2381-shifting-letters-ii) |
 | [2409-count-days-spent-together](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -394,6 +395,7 @@ travelling today so no Ques
 | [1260-shift-2d-grid](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
