@@ -73,6 +73,7 @@ travelling today so no Ques
 | [1306-jump-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -162,6 +163,7 @@ travelling today so no Ques
 | [0973-k-closest-points-to-origin](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -245,6 +247,7 @@ travelling today so no Ques
 | [1109-corporate-flight-bookings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -531,10 +534,12 @@ travelling today so no Ques
 | [0303-range-sum-query-immutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
