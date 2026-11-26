@@ -174,6 +174,7 @@ travelling today so no Ques
 | [2409-count-days-spent-together](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -406,6 +407,7 @@ travelling today so no Ques
 | [1929-concatenation-of-array](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3360-stone-removal-game](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohityadav24952-ai/SDE-sheet-progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
